@@ -1,0 +1,6 @@
+
+## 💡 Note
+
+All data used is synthetic and generated within the scripts for demo purposes.
+
+
